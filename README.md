@@ -2,7 +2,7 @@
 
 .
 
-I'm a self-taught, creative Frontend Developer and I'm very passionate about career, technology, gaming, and music. I build websites focusing on responsive designs, easy usage, and accessibility.
+I'm a creative Front-End Developer. I'm very passionate about career, technology, gaming, and music. I build websites focusing on responsive designs, easy usage, and accessibility.
 I'm a passionate learner who's always willing to learn and work across technologies and domains. 🌱 I’m currently honing my backend web development skills and working on my data structure and algorithms skills.
 
 <!---
